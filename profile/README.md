@@ -7,6 +7,6 @@
 
 Up-scale python functions for high-performance computing (HPC)
 
-| Repository | Documentation | Publication | Tutorial |
-|------------|---------------|-------------|----------|
-| [:package:](https://github.com/pyiron/executorlib) | [:books:](https://executorlib.readthedocs.io/) | [:pencil:](https://joss.theoj.org/papers/10.21105/joss.07782) | [:teacher:](https://workshop.pyiron.org/lanl-executorlib-tutorial) |
+| Repository :package: | Documentation :books: | Publication :pencil: | Tutorial :teacher: |
+|----------------------|-----------------------|----------------------|--------------------|
+| [github.com/pyiron/executorlib](https://github.com/pyiron/executorlib) | [executorlib.readthedocs.io](https://executorlib.readthedocs.io/) | [Journal of Open Source Software](https://joss.theoj.org/papers/10.21105/joss.07782) | [workshop.pyiron.org/lanl-executorlib-tutorial](https://workshop.pyiron.org/lanl-executorlib-tutorial) |

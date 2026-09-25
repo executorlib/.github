@@ -10,3 +10,4 @@ Up-scale python functions for high-performance computing (HPC). `executorlib` is
 | Repository :package: | Documentation :books: | Publication :pencil: | Tutorial :teacher: |
 |----------------------|-----------------------|----------------------|--------------------|
 | [github.com/pyiron/executorlib](https://github.com/pyiron/executorlib) | [executorlib.readthedocs.io](https://executorlib.readthedocs.io/) | [Journal of Open Source Software](https://joss.theoj.org/papers/10.21105/joss.07782) | [workshop.pyiron.org/lanl-executorlib-tutorial](https://workshop.pyiron.org/lanl-executorlib-tutorial) |
+| [github.com/pyiron/pysqa](https://github.com/pyiron/pysqa) | [pysqa.readthedocs.io](https://pysqa.readthedocs.io/) | [Journal of Open Source Software](https://doi.org/10.21105/joss.10961) |  |

@@ -5,7 +5,7 @@
 [![status](https://joss.theoj.org/papers/7a4bced702e5ea10e4630bc4d5dbaad2/status.svg)](https://joss.theoj.org/papers/7a4bced702e5ea10e4630bc4d5dbaad2)
 ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib)
 
-Up-scale python functions for high-performance computing (HPC)
+Up-scale python functions for high-performance computing (HPC). `executorlib` is developed as part of the [pyiron.org](https://pyiron.org) project, so the active development is available on the [github.com/pyiron](https://github.com/pyiron) organization.
 
 | Repository :package: | Documentation :books: | Publication :pencil: | Tutorial :teacher: |
 |----------------------|-----------------------|----------------------|--------------------|
